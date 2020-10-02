@@ -54,9 +54,3 @@ https://drive.google.com/file/d/1GGGC8a8UTVlxLTfZFbRBVzhSylopBMMJ/view
 
 #### To execute the tests
 * Project view -> Search GitHub repositories -> app -> src -> test -> right click and run the tests https://drive.google.com/file/d/1AJFvXGFDePx1VOPqVTn4cl6DkrITGzME/view
-
-#### Compromises
-
-* Implemented showing search results in recyclerview, saving them in local database, pagination and recyclerview item click to show the repository owner details.
-* Not able to implement the report for admin to see the searches done because of the time constraint.
-
